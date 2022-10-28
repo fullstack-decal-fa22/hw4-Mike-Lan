@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hw4-Mike-Lan/static/css/main.b6832693.css",
+    "main.js": "/hw4-Mike-Lan/static/js/main.a6b8d4f1.js",
+    "static/js/787.263e14e4.chunk.js": "/hw4-Mike-Lan/static/js/787.263e14e4.chunk.js",
+    "index.html": "/hw4-Mike-Lan/index.html",
+    "main.b6832693.css.map": "/hw4-Mike-Lan/static/css/main.b6832693.css.map",
+    "main.a6b8d4f1.js.map": "/hw4-Mike-Lan/static/js/main.a6b8d4f1.js.map",
+    "787.263e14e4.chunk.js.map": "/hw4-Mike-Lan/static/js/787.263e14e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6832693.css",
+    "static/js/main.a6b8d4f1.js"
+  ]
+}
